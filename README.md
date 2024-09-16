@@ -6,10 +6,11 @@
 
 # Table Of Content (in Hebrew)
 
-![image](https://github.com/user-attachments/assets/a5944f01-5fa8-4868-8c2b-bb0f8203e5cf)
+![image](https://github.com/user-attachments/assets/de50057b-4141-4c64-a31e-e33374a26a41)
 
 
-![image](https://github.com/user-attachments/assets/ffa2d2b4-69f2-4c02-8ec4-2ccfe39f6c24)
+![image](https://github.com/user-attachments/assets/889ddefa-255b-4a1a-9419-f478597e34d0)
+
 
 # Key Topics Covered
 
